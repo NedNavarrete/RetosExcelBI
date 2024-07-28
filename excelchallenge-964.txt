@@ -1,1 +1,2 @@
 Calcular los primeros 500 numeros de fibonacci
+=let(f,{0,1},s,sequence(498))
